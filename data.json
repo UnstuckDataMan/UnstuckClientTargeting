@@ -3,7 +3,6 @@
     "industry": "Accounting and Auditing",
     "niches": [
       "Accounting and Auditing",
-      "Case Study",
       "Financial Accounting",
       "Management & Cost Accounting",
       "Tax Accounting",
@@ -31,7 +30,6 @@
     "industry": "Apparel & Fashion",
     "niches": [
       "Apparel & Fashion",
-      "Case study",
       "Clothing",
       "Fast fashion",
       "Maternity wear",
@@ -58,7 +56,6 @@
     "industry": "Beauty",
     "niches": [
       "Beauty",
-      "Case Study",
       "Skincare Products",
       "Cleansers & Face Wash",
       "Moisturizers & Creams",
@@ -93,7 +90,6 @@
     "industry": "Construction & Infrastructure",
     "niches": [
       "Construction & Infrastructure",
-      "Case Study",
       "Residential Construction",
       "Commercial Construction",
       "Industrial Construction",
@@ -122,7 +118,6 @@
     "industry": "Consulting",
     "niches": [
       "Consulting",
-      "Case Study",
       "Management & Strategy Consulting",
       "Operations Consulting",
       "Financial & Risk Consulting",
@@ -152,7 +147,6 @@
     "industry": "Consumer Goods (non-F&B, non-Fa",
     "niches": [
       "Consumer Goods (non-F&B, non-Fashion, non-Cosmetics)",
-      "Case Study",
       "Cleaning supplies (detergents, surface cleaners, disinfectants)",
       "Paper goods (toilet paper, tissues, paper towels)",
       "Laundry products (powders, liquids, fabric softeners)",
@@ -177,7 +171,6 @@
     "industry": "Cosmetics & Personal Care",
     "niches": [
       "Cosmetics & Personal Care",
-      "Case Study",
       "Perfumes & colognes",
       "Body sprays",
       "Deodorants & antiperspirants",
@@ -205,7 +198,6 @@
     "industry": "Education & Research",
     "niches": [
       "Education & Research",
-      "Case Study",
       "Formal Education",
       "Research & Development (R&D)",
       "Education Services",
@@ -232,7 +224,6 @@
     "industry": "Fashion",
     "niches": [
       "Fashion",
-      "Case Study",
       "Womenswear",
       "Menswear",
       "Childrenswear (Kidswear)",
@@ -304,7 +295,6 @@
     "industry": "Finance & Investment",
     "niches": [
       "Finance & Investment",
-      "Case Study",
       "Mutual funds",
       "Hedge funds",
       "Private equity",
@@ -332,7 +322,6 @@
     "industry": "Food & Beverage (F&B)",
     "niches": [
       "Food & Beverage (F&B)",
-      "Case Study",
       "Fine dining",
       "Casual dining",
       "Fast casual",
@@ -366,7 +355,6 @@
     "industry": "Government & Public Sector",
     "niches": [
       "Government & Public Sector",
-      "Case Study",
       "National/Federal Government",
       "Regional/Local Government",
       "Public Services & Institutions",
@@ -386,7 +374,6 @@
     "industry": "Health and Wellness",
     "niches": [
       "Health & Wellness",
-      "Case Study",
       "Vitamin & Supplement Brands",
       "Herbal & Natural Remedy Brands",
       "Protein & Sports Nutrition Brands",
@@ -436,7 +423,6 @@
     "industry": "Healthcare & Life Sciences",
     "niches": [
       "Healthcare & Life Sciences",
-      "Case study",
       "Primary Care",
       "Cardiology",
       "Oncology",
@@ -460,20 +446,9 @@
     ]
   },
   {
-    "industry": "How To",
-    "niches": [
-      "How To",
-      "1) Add tabs to a new Google Sheet ahead of onboarding - during onboarding prep. Only include tabs likeily to be relevant. Title the file: CLIENT NAME - TARGETING BY NICHE",
-      "2) Add this to the clients onboarding sheet (as a link) in the targeting section.",
-      "3) Add case studies during onboarding and establish which sectors to target/ avoid.",
-      "4) Share with clients in a seperate link as a part of your recap"
-    ]
-  },
-  {
     "industry": "Industrial & Energy",
     "niches": [
       "Industrial & Energy",
-      "Case Study",
       "Manufacturing & Production",
       "Energy & Utilities",
       "Industrial Services & Engineering",
@@ -496,7 +471,6 @@
     "industry": "Legal",
     "niches": [
       "Legal",
-      "Case Study",
       "Corporate & Business Law",
       "Employment & Labour Law",
       "Intellectual Property (IP) Law",
@@ -525,7 +499,6 @@
     "industry": "Marketing, Advertising, PR & De",
     "niches": [
       "Marketing, Advertising, PR & Design",
-      "Case Study",
       "Digital Marketing",
       "Brand & Strategy Marketing",
       "Growth marketing / performance marketing",
@@ -552,7 +525,6 @@
     "industry": "Media, Arts & Entertainment",
     "niches": [
       "Media, Arts & Entertainment",
-      "Case Study",
       "Media & Broadcasting",
       "Arts & Culture",
       "Entertainment & Leisure",
@@ -575,7 +547,6 @@
     "industry": "Nonprofits & NGOs",
     "niches": [
       "Nonprofits & NGOs",
-      "Case Study",
       "Local / community-based NGOs",
       "Regional nonprofits",
       "National organizations",
@@ -605,7 +576,6 @@
     "industry": "Real Estate",
     "niches": [
       "Real Estate",
-      "Case Study",
       "Residential",
       "Commercial",
       "Land",
@@ -631,7 +601,6 @@
     "industry": "Retail",
     "niches": [
       "Retail",
-      "Case Study",
       "Consumer Electronics",
       "Mobile Phones & Accessories",
       "Computers & Laptops",
@@ -659,7 +628,6 @@
     "industry": "Technology",
     "niches": [
       "Technology",
-      "Case Study",
       "Cleantech",
       "Gaming",
       "Smart Homes",
