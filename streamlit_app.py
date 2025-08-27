@@ -34,7 +34,7 @@ industries = [r["industry"] for r in DATA]
 niches_map = {r["industry"]: r["niches"] for r in DATA}
 
 # --- Query param state (shareable link) ---
-qp = st.experimental_get_query_params()
+qp = st.query_params
 pre_sel_inds = qp.get("industries", [])
 pre_sel_niches = {}
 for k, v in qp.items():
